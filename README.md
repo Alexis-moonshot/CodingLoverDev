@@ -23,52 +23,76 @@
 <table>
     <thead align="center">
         <tr>
-            <td>Casalova</td>           
-            <td>Fishtripr</td>           
-            <td>Fsastore</td>
+            <td>RL-Supply</td>           
+            <td>RL-Simulator</td>           
+            <td>College Sports Evaluation</td>
         </tr>
     </thead>
     <tr>
         <td>
-            <a href="https://www.f6s.com/casalova">
-                <img src="https://flex.f6s.com/content-resource/media/463849.jpg" width="300">
+            <a href="https://rocket-league.com/">
+                <img src="https://jin-lyu-dev.vercel.app/projects/supply.png" width="300">
             </a>
         </td>
         <td>
-            <a href="https://www.fishtripr.com/">
-                <img src="https://v.fastcdn.co/u/19d50400/20614816-0-AdobeStock-2588979.jpeg" width="300">
+            <a href="https://rlsimulator.pages.dev/">
+                <img src="https://jin-lyu-dev.vercel.app/projects/sim.png" width="300">
             </a>
         </td> 
         <td>
-            <a href="https://fsastore.com/">
-                <img src="https://edge.disstg.commercecloud.salesforce.com/dw/image/v2/BFKW_STG/on/demandware.static/-/Library-Sites-fsaStoreLibrary/default/v6ca977b808a5a1ce8d5929d87e1c799a17d0f261/images/Campaigns/2022-03-mar-grace-period-phase3/homepage-hero-phase3hero-graceperiod-hp-fsa-2xs.jpg" width="300">
+            <a href="https://cseval.com/">
+                <img src="https://jin-lyu-dev.vercel.app/projects/cseDefault.png" width="300">
             </a>
         </td>               
     </tr>
     <thead align="center">
         <tr style="display: flex">
-            <td>Hiflaneur</td>
-            <td>Mociun</td>
-            <td>Seniorly</td>
+            <td>Swaport</td>
+            <td>Cam Coin</td>
+            <td>Nextres</td>
         </tr>
     </thead>
     <tr>
         <td>
-            <a href="https://www.hiflaneur.com/" target="_blank">
-                <img src="https://cdn.shopify.com/s/files/1/0999/0662/products/2018_10_19_FLANEUR_1378_540x.jpg?v=1637635013" width="300" height="300">
+            <a href="https://swaport.vercel.app/" target="_blank">
+                <img src="https://jin-lyu-dev.vercel.app/projects/swaport.png" width="300">
             </a>
         </td>
         <td>
-            <a href="https://mociun.com/" target="_blank">
-                <img src="https://cdn.shopify.com/s/files/1/0075/5004/2175/files/Mociun_HomePage_Full_300x.jpg?v=1643389545" width="300" >
+            <a href="https://camcoin-dev.vercel.app/" target="_blank">
+                <img src="https://jin-lyu-dev.vercel.app/projects/camcoin.png" width="300" >
             </a>
         </td>
         <td>
-            <a href="https://www.seniorly.com/" target="_blank">
-                <img src="https://d354o3y6yz93dt.cloudfront.net/images/1080x1080/react-assets/home/bottom-banner.jpg" width="300">
+            <a href="https://commercial.nextres.com/" target="_blank">
+                <img src="https://jin-lyu-dev.vercel.app/projects/eCom.png" width="300">
             </a>
         </td>                       
     </tr>   
+   <thead align="center">
+        <tr style="display: flex">
+            <td>OP-Market</td>
+            <td>Tulo Chain</td>
+            <td>Simplerig</td>
+        </tr>
+    </thead>
+    <tr>
+        <td>
+            <a href="https://op-market.vercel.app/" target="_blank">
+                <img src="https://jin-lyu-dev.vercel.app/projects/market.png" width="300">
+            </a>
+        </td>
+        <td>
+            <a href="https://www.tulochain.com/" target="_blank">
+                <img src="https://jin-lyu-dev.vercel.app/projects/tulo.png" width="300" >
+            </a>
+        </td>
+        <td>
+            <a href="https://simplerig.herokuapp.com/" target="_blank">
+                <img src="https://jin-lyu-dev.vercel.app/projects/simple.png" width="300">
+            </a>
+        </td>                       
+    </tr>  
 </table>
 
 - Hybrid App Development
@@ -100,7 +124,6 @@
 </table>
 
 
-
 Hello,<br />
 Thank you for checking out my Github profile, here is a quick overview of my skills and strengths.<br />
 A self-motivated professional that thrives on innovation and overcoming challenges, learning new skills, and encouraging growth in those around me. 
@@ -110,8 +133,8 @@ I have worked in the retail industry for over 7 years as a full stack developer 
 My genuine interest in building world class support teams and maintaining a high level of standards has led me to become successful in my role as a full-stack developer.<br />
 My goal has always been to exceed the expectations of both my emplyer as well as my customer.<br />
 Although the above is only a brief snapshot, this philosophy has served me welll in my professional career.<br />
-I am focused on Web Design, React, Vue.js, Angular, Solidity, Smart-contract, Blockchain-development, Mobile-app creation. I am a Shopify certified partner and I am featured in the 21 web design lists in prestigiious rankings.<br />
+I am focused on Web Design, React, React-native, Redux, Context, Vue.js, Vuex, Next.js, Vuex, Tailwind CSS, web3.js, Blockchain-development, creation. I am a Shopify certified partner and I am featured in the 21 web design lists in prestigiious rankings.<br />
 The design philosophy is centered around simplicity. I focus on highly customizable, fast and optimized websites, clean lines, white space, and solid colors to create an aesthetic that is both modern and timeless.<br />
 The websites are professionally designed to increase conversion rates and sales.<br />
-I encourage you to take alook at my github profile to see the type of results that you can expect when working with me.<br />
+I encourage you to take alook at my github profile and portfolio to see the type of results that you can expect when working with me.<br />
 Thank you.
