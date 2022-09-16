@@ -107,7 +107,7 @@
     <tr>
         <td>
             <a href="https://apps.apple.com/al/app/fanimal/id1598427777">
-                <img src="https://jin-lyu-dev.vercel.app/projects/fanimal.png" width="300" height="550">
+                <img src="https://jin-lyu-dev.vercel.app/projects/fanimal.png" width="300" height="650">
             </a>
         </td>          
         <td>
