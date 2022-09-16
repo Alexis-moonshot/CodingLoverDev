@@ -99,7 +99,7 @@
 <table>
     <thead align="center">
         <tr>
-            <td>StoryFire</td>
+            <td>Fanimal</td>
             <td>Happy Be</td>
             <td>StrikeTec</td>
         </tr>
