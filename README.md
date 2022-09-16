@@ -106,8 +106,8 @@
     </thead>
     <tr>
         <td>
-            <a href="https://play.google.com/store/apps/details?id=com.storyfire.storyfire&hl=en_US&gl=US">
-                <img src="https://play-lh.googleusercontent.com/5Lmq7EcKhNGHUptLtziAy4G8qgXGRuC8AdQhp8ycJGmSY9XMDxf3siAPCCl2RihysLg=w1440-h620-rw" width="300" height="550">
+            <a href="https://apps.apple.com/al/app/fanimal/id1598427777">
+                <img src="https://jin-lyu-dev.vercel.app/projects/fanimal.png" width="300" height="550">
             </a>
         </td>          
         <td>
